@@ -6,7 +6,7 @@ const Navbar = () => {
 
   const handleResumeDownload = () => {
     const link = document.createElement('a');
-    link.href = 'https://drive.google.com/file/d/1g_y0PywX637dgmF3N0n6mV0I4gA3D6YV/view?usp=sharing';
+    link.href = 'https://drive.google.com/file/d/1-FUXHs2P8uk5UAF9-RS43AlvJedb8bgX/view?usp=sharing';
     link.target = '_blank';
     link.click();
   };
